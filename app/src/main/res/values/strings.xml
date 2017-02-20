@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TextInjectionDemo</string>
+    <string name="hintTxtItem">Enter an item here ...</string>
+    <string name="lblBtnAdd">Add Item</string>
+    <string name="txtEmpty">List is empty</string>
+    <string name="hello">Hello World, MainActivity!</string>
+</resources>
